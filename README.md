@@ -24,6 +24,7 @@ Designed for organizations managing multiple compliance frameworks.
 **SOC 2**: `CC#.#` = Common Criteria `A1.#` = Availability
 
 **Priority**: High (H) • Medium (M) • Low (L)
+
 ---
 
 ## Control Matrix
