@@ -81,4 +81,5 @@ Mappings are **example alignments** based on common organizational risk appetite
 
 ---
 
-**Interactive HTML version** available in the repository: [`control-matrix.html`](control-matrix.html)
+**Interactive Version:** [Multi-Framework Control Matrix](https://cyberlav.io/Multi-Framework_Control_Matrix)  
+*(with search and filters)*
